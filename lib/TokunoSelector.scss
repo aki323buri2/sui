@@ -1,0 +1,16 @@
+.tokuno-selector
+{
+	.value-format, 
+	.menu-format
+	{
+		display: flex;
+		.value
+		{
+			width: 3em;
+			margin-right: .5em;
+		}
+		.label
+		{
+		}
+	}
+}

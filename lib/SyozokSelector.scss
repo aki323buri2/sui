@@ -1,0 +1,20 @@
+.syozok-selector
+{
+	.value-format, 
+	.menu-format
+	{
+		display: flex;
+		.value
+		{
+			width: 3em;
+			background: #aaa;
+			color: #fff;
+			border-radius: 1em;
+			text-align: center;
+			margin-right: 1em;
+		}
+		.label
+		{
+		}
+	}
+}
